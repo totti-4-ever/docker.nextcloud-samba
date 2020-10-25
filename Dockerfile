@@ -1,4 +1,4 @@
-FROM nextcloud:18-apache
+FROM nextcloud:production-apache
 
 RUN set -ex; \
     \
